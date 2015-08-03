@@ -4,7 +4,7 @@ npm install;
 
 cd node_modules/sjcl && ./configure --with-sha512 --with-hmac --with-pbkdf2 --with-bitArray && make && cd ../..;
 
-browserify index.js -o build.js;
+browserify www/index.js -o www/build.js;
 ```
 
 # Node v0.10.36
@@ -67,5 +67,13 @@ edb67c00b040d72d91a44840995e5e12ca2ea37937e16a8cfa77978fdf79f0596b0d33bedcfbdfef
 sjcl.misc.pbkdf2 2007 = 200.7
 edb67c00b040d72d91a44840995e5e12ca2ea37937e16a8cfa77978fdf79f0596b0d33bedcfbdfefbed5ea61badf54815d1093e4a03db305000fd94024e50712
 pbkdf2.pbkdf2Sync 38350 = 3835.0
+edb67c00b040d72d91a44840995e5e12ca2ea37937e16a8cfa77978fdf79f0596b0d33bedcfbdfefbed5ea61badf54815d1093e4a03db305000fd94024e50712
+```
+
+# Safari (iPhone 6 Emulator iOS 8.3)
+```
+sjcl.misc.pbkdf2 6514 = 651.4
+edb67c00b040d72d91a44840995e5e12ca2ea37937e16a8cfa77978fdf79f0596b0d33bedcfbdfefbed5ea61badf54815d1093e4a03db305000fd94024e50712
+pbkdf2.pbkdf2Sync 12215 = 1221.5
 edb67c00b040d72d91a44840995e5e12ca2ea37937e16a8cfa77978fdf79f0596b0d33bedcfbdfefbed5ea61badf54815d1093e4a03db305000fd94024e50712
 ```

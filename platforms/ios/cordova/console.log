@@ -1,0 +1,30 @@
+2015-08-03 11:52:24.424 Pbkdf2Benchmark[85553:4750266] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/blocktrail/Library/Developer/CoreSimulator/Devices/24BF5C93-6F69-42B5-8FC1-59D0A91A2966/data/Containers/Data/Application/CC181F5C-0068-4782-A766-19F09423C849/Library/Cookies/Cookies.binarycookies
+2015-08-03 11:52:24.695 Pbkdf2Benchmark[85553:4750266] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-03 11:52:24.695 Pbkdf2Benchmark[85553:4750266] Multi-tasking -> Device: YES, App: YES
+2015-08-03 11:52:24.712 Pbkdf2Benchmark[85553:4750266] Unlimited access to network resources
+2015-08-03 11:52:24.716 Pbkdf2Benchmark[85553:4750266] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-03 11:52:25.904 Pbkdf2Benchmark[85553:4750266] Resetting plugins due to page load.
+2015-08-03 11:52:35.732 Pbkdf2Benchmark[85553:4750266] Finished load of: file:///Users/blocktrail/Library/Developer/CoreSimulator/Devices/24BF5C93-6F69-42B5-8FC1-59D0A91A2966/data/Containers/Bundle/Application/677D7922-19DF-4C9B-874E-19FF79E70157/Pbkdf2Benchmark.app/www/index.html
+2015-08-03 11:54:55.672 Pbkdf2Benchmark[85633:4764844] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/blocktrail/Library/Developer/CoreSimulator/Devices/24BF5C93-6F69-42B5-8FC1-59D0A91A2966/data/Containers/Data/Application/AFC58320-49C1-4765-8188-7C6FB56EBCBF/Library/Cookies/Cookies.binarycookies
+2015-08-03 11:54:55.776 Pbkdf2Benchmark[85633:4764844] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-03 11:54:55.777 Pbkdf2Benchmark[85633:4764844] Multi-tasking -> Device: YES, App: YES
+2015-08-03 11:54:55.789 Pbkdf2Benchmark[85633:4764844] Unlimited access to network resources
+2015-08-03 11:54:55.794 Pbkdf2Benchmark[85633:4764844] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-03 11:54:56.036 Pbkdf2Benchmark[85633:4764844] Resetting plugins due to page load.
+2015-08-03 11:55:59.979 Pbkdf2Benchmark[85633:4764866] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-08-03 11:57:40.373 Pbkdf2Benchmark[85633:4764866] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-08-03 11:57:40.381 Pbkdf2Benchmark[85633:4764844] Finished load of: file:///Users/blocktrail/Library/Developer/CoreSimulator/Devices/24BF5C93-6F69-42B5-8FC1-59D0A91A2966/data/Containers/Bundle/Application/CEE8E148-7EA7-42A9-BD57-2B95E66A0215/Pbkdf2Benchmark.app/www/index.html
