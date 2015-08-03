@@ -1,10 +1,26 @@
 # Build
 ```
+npm install -g cordova;
 npm install;
 
 cd node_modules/sjcl && ./configure --with-sha512 --with-hmac --with-pbkdf2 --with-bitArray && make && cd ../..;
 
 browserify www/index.js -o www/build.js;
+```
+
+# Run in Browser
+```
+./node_modules/serve/bin/serve ./www
+```
+
+# Run Cordova IOS
+```
+cordova run ios
+```
+
+# Run Cordova Android
+```
+cordova run android
 ```
 
 # Node v0.10.36

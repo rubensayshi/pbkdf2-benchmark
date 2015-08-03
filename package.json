@@ -7,6 +7,7 @@
     "bip39": "^2.1.2",
     "browserify": "^11.0.1",
     "pbkdf2": "^3.0.4",
+    "serve": "^1.4.0",
     "sjcl": "^1.0.3"
   },
   "devDependencies": {},
