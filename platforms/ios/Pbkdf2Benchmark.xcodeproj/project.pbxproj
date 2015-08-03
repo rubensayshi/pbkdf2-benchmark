@@ -428,6 +428,10 @@
 				);
 				PRODUCT_NAME = "Pbkdf2Benchmark";
 				TARGETED_DEVICE_FAMILY = "1,2";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"Pbkdf2Benchmark/Plugins/cordova-plugin-webserver\"",
+				);
 			};
 			name = Debug;
 		};
@@ -457,6 +461,10 @@
 				);
 				PRODUCT_NAME = "Pbkdf2Benchmark";
 				TARGETED_DEVICE_FAMILY = "1,2";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"Pbkdf2Benchmark/Plugins/cordova-plugin-webserver\"",
+				);
 			};
 			name = Release;
 		};

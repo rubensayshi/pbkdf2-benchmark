@@ -28,3 +28,52 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-08-03 11:55:59.979 Pbkdf2Benchmark[85633:4764866] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
 2015-08-03 11:57:40.373 Pbkdf2Benchmark[85633:4764866] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
 2015-08-03 11:57:40.381 Pbkdf2Benchmark[85633:4764844] Finished load of: file:///Users/blocktrail/Library/Developer/CoreSimulator/Devices/24BF5C93-6F69-42B5-8FC1-59D0A91A2966/data/Containers/Bundle/Application/CEE8E148-7EA7-42A9-BD57-2B95E66A0215/Pbkdf2Benchmark.app/www/index.html
+2015-08-03 12:07:51.224 Pbkdf2Benchmark[85633:4806955] Terminating since there is no system app.
+2015-08-03 12:07:51.303 Pbkdf2Benchmark[85633:4806978] Communications error: <OS_xpc_error: <error: 0x2dc25f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x2dc283c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-08-03 14:01:21.614 Pbkdf2Benchmark[93459:5151523] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/blocktrail/Library/Developer/CoreSimulator/Devices/24BF5C93-6F69-42B5-8FC1-59D0A91A2966/data/Containers/Data/Application/19C31BDC-3A78-418C-AE59-ECB1EBD3D658/Library/Cookies/Cookies.binarycookies
+2015-08-03 14:01:21.889 Pbkdf2Benchmark[93459:5151523] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-03 14:01:21.890 Pbkdf2Benchmark[93459:5151523] Multi-tasking -> Device: YES, App: YES
+2015-08-03 14:01:21.898 Pbkdf2Benchmark[93459:5151523] Unlimited access to network resources
+2015-08-03 14:01:21.911 Pbkdf2Benchmark[93459:5151523] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-03 14:01:22.661 Pbkdf2Benchmark[93459:5151523] Resetting plugins due to page load.
+2015-08-03 14:01:47.749 Pbkdf2Benchmark[93459:5151905] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-08-03 14:02:09.148 Pbkdf2Benchmark[93459:5151905] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-08-03 14:02:09.164 Pbkdf2Benchmark[93459:5151523] Finished load of: file:///Users/blocktrail/Library/Developer/CoreSimulator/Devices/24BF5C93-6F69-42B5-8FC1-59D0A91A2966/data/Containers/Bundle/Application/F1130B72-3123-46DB-8B4D-173CA405B553/Pbkdf2Benchmark.app/www/index.html
+2015-08-03 14:44:59.969 Pbkdf2Benchmark[94658:5300081] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/blocktrail/Library/Developer/CoreSimulator/Devices/24BF5C93-6F69-42B5-8FC1-59D0A91A2966/data/Containers/Data/Application/D54DAFF2-35B6-414B-807E-C1BE055D9DDB/Library/Cookies/Cookies.binarycookies
+2015-08-03 14:45:00.440 Pbkdf2Benchmark[94658:5300081] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-03 14:45:00.441 Pbkdf2Benchmark[94658:5300081] Multi-tasking -> Device: YES, App: YES
+2015-08-03 14:45:00.444 Pbkdf2Benchmark[94658:5300081] Unlimited access to network resources
+2015-08-03 14:45:00.475 Pbkdf2Benchmark[94658:5300081] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-03 14:45:00.959 Pbkdf2Benchmark[94658:5300081] Resetting plugins due to page load.
+2015-08-03 14:45:14.618 Pbkdf2Benchmark[94658:5300081] Finished load of: file:///Users/blocktrail/Library/Developer/CoreSimulator/Devices/24BF5C93-6F69-42B5-8FC1-59D0A91A2966/data/Containers/Bundle/Application/2C9BEB56-8280-4F11-A450-F3642F11C2FB/Pbkdf2Benchmark.app/www/index.html
+2015-08-03 14:47:14.158 Pbkdf2Benchmark[94763:5311292] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/blocktrail/Library/Developer/CoreSimulator/Devices/24BF5C93-6F69-42B5-8FC1-59D0A91A2966/data/Containers/Data/Application/F2A161B9-34FA-44C7-9416-642D4DED8AEC/Library/Cookies/Cookies.binarycookies
+2015-08-03 14:47:14.242 Pbkdf2Benchmark[94763:5311292] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-03 14:47:14.243 Pbkdf2Benchmark[94763:5311292] Multi-tasking -> Device: YES, App: YES
+2015-08-03 14:47:14.252 Pbkdf2Benchmark[94763:5311292] Unlimited access to network resources
+2015-08-03 14:47:14.256 Pbkdf2Benchmark[94763:5311292] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-03 14:47:14.431 Pbkdf2Benchmark[94763:5311292] Resetting plugins due to page load.
+2015-08-03 14:47:37.764 Pbkdf2Benchmark[94763:5311307] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-08-03 14:47:43.149 Pbkdf2Benchmark[94763:5311292] Finished load of: file:///Users/blocktrail/Library/Developer/CoreSimulator/Devices/24BF5C93-6F69-42B5-8FC1-59D0A91A2966/data/Containers/Bundle/Application/1F245B05-17DC-49D3-91EC-F2784F2D17BE/Pbkdf2Benchmark.app/www/index.html

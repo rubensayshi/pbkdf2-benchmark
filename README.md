@@ -101,3 +101,24 @@ edb67c00b040d72d91a44840995e5e12ca2ea37937e16a8cfa77978fdf79f0596b0d33bedcfbdfef
 pbkdf2.pbkdf2Sync 88831 = 8883.1
 edb67c00b040d72d91a44840995e5e12ca2ea37937e16a8cfa77978fdf79f0596b0d33bedcfbdfefbed5ea61badf54815d1093e4a03db305000fd94024e50712
 ```
+
+# Cordova IOS 3.8.0 + com.telerik.plugins.wkwebview (iPhone 6 iOS 8.3)
+```
+cordova plugin add com.telerik.plugins.wkwebview
+```
+
+```
+sjcl.misc.pbkdf2 5245 = 1049
+edb67c00b040d72d91a44840995e5e12ca2ea37937e16a8cfa77978fdf79f0596b0d33bedcfbdfefbed5ea61badf54815d1093e4a03db305000fd94024e50712
+pbkdf2.pbkdf2Sync 3797 = 759.4
+edb67c00b040d72d91a44840995e5e12ca2ea37937e16a8cfa77978fdf79f0596b0d33bedcfbdfefbed5ea61badf54815d1093e4a03db305000fd94024e50712
+```
+
+# Safari (iPhone 6 iOS 8.3)
+```
+sjcl.misc.pbkdf2 1061 = 1061
+edb67c00b040d72d91a44840995e5e12ca2ea37937e16a8cfa77978fdf79f0596b0d33bedcfbdfefbed5ea61badf54815d1093e4a03db305000fd94024e50712
+pbkdf2.pbkdf2Sync 976 = 976
+edb67c00b040d72d91a44840995e5e12ca2ea37937e16a8cfa77978fdf79f0596b0d33bedcfbdfefbed5ea61badf54815d1093e4a03db305000fd94024e50712
+```
+

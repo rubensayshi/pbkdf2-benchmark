@@ -14,7 +14,8 @@ var t, i;
 
 var iter = 5;
 
-var debug = typeof window !== "undefined" ? alert : console.log;
+// use alert in browsers for when console.log is too much hassle
+var debug = typeof window !== "undefined" ? function(msg) { console.log(msg); alert(msg); } : console.log;
 
 // making sure sjcl was build correctly
 console.log(sjcl.hash.sha512);

@@ -1,2 +1,7 @@
 www/build.js
 node_modules
+
+platforms/android/assets/www/*
+platforms/ios/www/*
+platforms/ios/cordova/console.log
+platforms/android/CordovaLib/build
