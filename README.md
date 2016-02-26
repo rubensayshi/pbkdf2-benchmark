@@ -5,7 +5,7 @@ npm install;
 
 cd node_modules/sjcl && ./configure --with-sha512 --with-hmac --with-pbkdf2 --with-bitArray && make && cd ../..;
 
-browserify www/index.js -o www/build.js;
+./node_modules/.bin/browserify www/index.js -o www/build.js;
 ```
 
 # Run in Browser
